@@ -10,7 +10,7 @@ install.packages(c("shiny","htmlwidgets"))
 
 To install Racmacs package see: https://github.com/acorg/R-acmacs
 
-run code below to convert map:
+run code to convert map:
 ```r
 runGitHub("Map_to_HTML", "svdvliet")
 ```
